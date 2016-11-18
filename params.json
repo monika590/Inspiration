@@ -1,6 +1,6 @@
 {
   "name": "Inspiration",
   "tagline": "I want to explore myself with building a website",
-  "body": "<h1>Welcome</h1>\r\n<input type=\"text\" id=\"textbox\" placeholder=\"Enter your name\" />\r\n<input type=\"email\" id=\"emailbox\" placeholder=\"Enter your Email id\" />\r\n\r\n<input type=\"button\" value=\"submit\" id=\"postvalues\" />",
+  "body": "<h1>Welcome</h1>\r\n<h2>Welcome</h2>\r\n<input type=\"text\" id=\"textbox\" placeholder=\"Enter your name\" />\r\n<input type=\"email\" id=\"emailbox\" placeholder=\"Enter your Email id\" />\r\n\r\n<input type=\"button\" value=\"submit\" id=\"postvalues\" />",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
